@@ -2,6 +2,7 @@ Titre du devoir : TP1 INF231-Structure de Données II
 
 Travail pratique en langage C
 Responsable : Pr .Metatagia
+
 Type : Travail de groupe
 
 Description 
