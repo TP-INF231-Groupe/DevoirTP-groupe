@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int tab[5], i, temp
+    int tab[5], i, temp;
 
     printf("Entrez 5 entiers:\n");
     for (i = 0; i < 5; i++) {
