@@ -19,12 +19,4 @@ Contenu de devoir
 6 .Trouver le médian dans un tableau
 7 .Inverser un tableau
 8 .Produit vectoriel
-9 .Produit vecteur x matrice 
-
-Membres du groupe 
-.NDIFOR CALEB-24F2826
-.ABATSONG ANGE MERVEILLES-24G2727
-.NDZINGA NGONO FRANK JUNIOR-15T2807
-.TANFFO DJIMELI CARNEL INEL-21T2340
-
-
+9 .Produit vecteur x matrice
